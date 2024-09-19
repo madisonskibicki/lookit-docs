@@ -337,6 +337,7 @@ List of tutorial participants
 - Ana Rinzler (Rutgers University)
 - Divya Sundar (University of California, Berkeley)
 - Lauren Howard (Franklin & Marshall College)
+- Madison Skibicki (Montclair State University)
 Checking for and creating issues on Github
 -------------------------------------------
 
